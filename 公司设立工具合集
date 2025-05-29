@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>我的税务工具导航</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 40px; }
+    h1 { margin-bottom: 20px; }
+    nav a {
+      display: inline-block;
+      margin: 0 20px 20px 0;
+      padding: 10px 20px;
+      background: #007acc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    nav a:hover { background: #005fa3; }
+  </style>
+</head>
+<body>
+  <h1>税务工具合集</h1>
+  <nav>
+    <!-- 链接到你的两个项目页面 -->
+    <a href="https://yytong98.github.io/taxcalculator/">税后利润计算器</a>
+    <a href="https://yytong98.github.io/-/">合伙企业对比</a>
+  </nav>
+</body>
+</html>
